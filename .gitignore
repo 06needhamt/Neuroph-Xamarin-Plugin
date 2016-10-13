@@ -250,3 +250,4 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+!\neuroph_xamarin_plugin\lib\neuroph.dll
